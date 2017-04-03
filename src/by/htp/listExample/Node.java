@@ -23,6 +23,9 @@ public class Node {
 	public Node getPrev(){
 		return this.prev;
 	}
+	public Node setPrev(){
+		return this.prev;
+	}
 	public String toString() {
 		return "Node [element=" + element + "]";
 	}
